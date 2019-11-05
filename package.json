@@ -1,0 +1,7 @@
+{
+  "name": "rabbitmq",
+  "version": "1.0.0",
+  "dependencies": {
+    "amqplib": "latest"
+  }
+}
